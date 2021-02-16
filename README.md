@@ -4,5 +4,4 @@
 localレポで変更
 GitHub上で更新2 conflict
 
-rebase-practiceブランチで更新(rebase用)
-mainブランチで変更
+rebase-practiceブランチで更新(rebase コンフリクト用)
